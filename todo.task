@@ -1,0 +1,32 @@
+Site-youtube-cursos:
+    ☐ Site onde vou pegar as aulas do youtube e vou cadastrar em categorias
+        ☐ Lista das ultimas aulas na pagina inicial
+        ☐ Cursos 
+            ☐ Clicar nos cursos e ver as aulas
+            ☐ Ao ver as aulas pode comprar a que quiser
+            ☐ E tambem comprar o curso completo
+        ☐ Cursos gratuitos podem ser vistos no site normalmente sem pagar
+        ☐ Sistema de busca
+        ☐ Área onde o usuário vai poder ver a aula
+            ☐  Comentários
+            ☐ Botão para ir para a aula anterior e para a próxima aula
+    ☐ Sistema de venda de aulas avulsas
+    ☐ Sistema administrativo
+    ☐ No site ter uma area somente para os usuários que comprarm as aulas ou ate mesmo os cursos
+         ☐ Uma area para mudar os seus dados
+    ☐ Painel administrativo onde somente eu vou ter acesso 
+        ☐ Cadastrar aulas e cursos
+        ☐ Gerenciar vendas
+        ☐ Gráficos
+        ☐ Gerenciar usuários
+
+O que vou utilizar:
+    ☐ Visual studio code
+    ☐ Table plus
+    ☐ Warp
+    ☐ Slim Framework
+    ☐ Plates
+    ☐ Alpine 3
+    ☐ PDO
+    ☐ Composer
+    ☐ PHPMailer
